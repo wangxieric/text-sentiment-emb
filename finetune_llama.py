@@ -258,7 +258,7 @@ if __name__ == '__main__':
     seed = 42
     
     # login to huggingface hub
-    login(token='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')
+    login(token='huggingface_token')
     
     """
         Transformer parameters
